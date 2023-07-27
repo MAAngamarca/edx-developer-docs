@@ -59,7 +59,7 @@ This repo is not currently taking new contributions.  Consider contributing to h
 Reporting Security Issues
 -------------------------
 
-Please do not report security issues in public. Please email security@tcril.org
+Please do not report security issues in public. Please email security@openedx.org
 
 Getting Help
 ------------
